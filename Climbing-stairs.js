@@ -23,8 +23,8 @@ var climbStairs = function (n) {
 // console.log(climbStairs(1));
 // console.log(climbStairs(2));
 console.log(climbStairs(3));
-// console.log(climbStairs(4));
-// console.log(climbStairs(5));
+console.log(climbStairs(4));
+console.log(climbStairs(5));
 // console.log(climbStairs(6));
 
 //n=2 => 3= 2+1 == 3
